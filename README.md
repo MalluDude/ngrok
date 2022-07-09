@@ -56,11 +56,12 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/tunnel`
+* `git clone https://github.com/MalluDude/ngrok.git`
 * `cd $HOME`
 * `ls`
-* `cd tunnel`
+* `cd ngrok`
 * `ls`
+* `chmod +x *`
 * `bash tunnel.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
