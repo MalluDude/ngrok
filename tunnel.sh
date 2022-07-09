@@ -1,5 +1,5 @@
-#Script By Nitro
-#Subscribe Noob Hackers Youtube Channel
+#Script By dude
+#Subscribe mallu Youtube Channel
 #you can modify and use the code but give credits
 clear
 printf "\n"
@@ -11,7 +11,7 @@ printf "\e[1;92m             \/    \__,_|_| |_|_| |_|\___|_| v1.1\e[0m\n"
 printf "\n"
 printf "                \e[104m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;92m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "  \e[100m\e[1;77m >>  MALLU DUDE [100m\e[1;77m << \e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m #>  Note: Turn on mobile internet to get link..! <# \e[0m\n"
 printf "\n"
@@ -30,43 +30,43 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' optio
 if [[ $option == 1 || $option == 01 ]]; then
 echo
 cd $HOME
-cd $HOME/tunnel/instalr
+cd $HOME/ngrok/instalr
 bash installer.sh
 echo
 
 elif [[ $option == 2 || $option == 02 ]]; then
 echo
-cd $HOME/tunnel/boot
+cd $HOME/ngrok/boot
 bash boot.sh
 
 elif [[ $option == 3 || $option == 03 ]]; then
 echo
-cd $HOME/tunnel/mover
+cd $HOME/ngrok/mover
 bash movr.sh
 
 elif [[ $option == 4 || $option == 04 ]]; then
 echo
-cd $HOME/tunnel/starter
+cd $HOME/ngrok/starter
 bash starter.sh
 
 elif [[ $option == 5 || $option == 05 ]]; then
 echo
-cd $HOME/tunnel/hackserv
+cd $HOME/ngrok/hackserv
 bash hackserv.sh
 
 elif [[ $option == 6 || $option == 06 ]]; then
 echo
-cd $HOME/tunnel/update
+cd $HOME/ngrok/update
 bash update.sh
 
 elif [[ $option == 7 || $option == 07 ]]; then
 echo
-cd $HOME/tunnel/about
+cd $HOME/ngrok/about
 bash about.sh
 
 elif [[ $option == 8 || $option == 08 ]]; then
 echo
-cd $HOME/tunnel/revert
+cd $HOME/ngrok/revert
 bash revert.sh
 
 elif [[ $option == 9 ]]; then
