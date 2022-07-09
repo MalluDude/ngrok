@@ -37,9 +37,9 @@ pkg install python -y
 pip install lolcat
 pkg install mpv -y
 wget --no-check-certificate https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.zip
-unzip ngrok-2.2.8-linux-arm64.zip
+unzip ngrok-v3-stable-linux-amd64.zip
 chmod +x ngrok
-rm -rf ngrok-2.2.8-linux-arm64.zip
+rm -rf ngrok-v3-stable-linux-amd64.zip
 clear
 echo " "
 printf "                  \e[1;91m Ngrok os Starting....!\e[0m\n"
