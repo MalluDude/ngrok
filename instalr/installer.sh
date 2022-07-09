@@ -36,7 +36,7 @@ pkg install php -y
 pkg install python -y
 pip install lolcat
 pkg install mpv -y
-wget --no-check-certificate https://bin.equinox.io/a/nmkK3DkqZEB/ngrok-2.2.8-linux-arm64.zip
+wget --no-check-certificate https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.zip
 unzip ngrok-2.2.8-linux-arm64.zip
 chmod +x ngrok
 rm -rf ngrok-2.2.8-linux-arm64.zip
